@@ -22,10 +22,7 @@ Actin-positive tissue area was quantified separately using manual thresholding i
 
 ECM-positive area was expressed as a percentage of the corresponding actin-positive tissue area:
 
-\[
-\text{ECM-positive area (\%)} =
-\frac{\text{ECM-positive area}}{\text{Actin-positive area}}
-\times 100
-\]
+ECM-positive area (%) = (ECM-positive area / Actin-positive area) * 100
+
 
 This calculation was performed in Microsoft Excel. Multiple non-overlapping regions of interest were analyzed per tissue slice, and measurements were averaged at the animal level.
